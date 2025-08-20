@@ -9,6 +9,7 @@ This school year I really want to try and stop procrastinating so much. I used t
 [this is my playlist](https://open.spotify.com/playlist/32DWcmzd9E3WZqWqTpcMnR?si=16980482882846f3&pt=602313bb450313faff11a7fe4546b3b6)
 ## My Collage / Mood Board
 
-![my collage]()
+![my collage](https://www.canva.com/design/DAGwlJ9T3RM/S-NlVkabSZzbnNADjQLtUQ/edit)
+
 
 
