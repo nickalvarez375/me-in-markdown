@@ -8,12 +8,4 @@ This school year I really want to try and stop procrastinating so much. I used t
 ## My Playlist
 [this is my playlist](https://open.spotify.com/playlist/32DWcmzd9E3WZqWqTpcMnR?si=16980482882846f3&pt=602313bb450313faff11a7fe4546b3b6)
 ## My Collage / Mood Board
-
-![my collage](https://docs.google.com/presentation/d/1CCCLFtH24IyBUli88a3uAv1Nf43OsxkRh69O1fFB9Bk/edit?usp=sharing)
-
-
-
-
-
-
-
+<img width="1728" height="2304" alt="me in markdown" src="https://github.com/user-attachments/assets/112871b1-4885-4eb0-b156-60f489d449e9" />
